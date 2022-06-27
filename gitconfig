@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = viktor.kertesz@ingka.ikea.com
+	name = viktor kertesz
